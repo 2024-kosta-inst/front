@@ -13,6 +13,7 @@ const Home = () => {
                 :
                 <>
                     로그인 해라
+                    <input type="file"></input>
                 </>
             }
         </>
